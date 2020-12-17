@@ -1,0 +1,449 @@
+<!DOCTYPE html>
+
+<html>
+
+<head>
+
+<meta charset="utf-8" />
+<meta name="generator" content="pandoc" />
+<meta http-equiv="X-UA-Compatible" content="IE=EDGE" />
+
+
+
+
+<title>Presentations</title>
+
+<script src="site_libs/jquery-1.11.3/jquery.min.js"></script>
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<link href="site_libs/bootstrap-3.3.5/css/flatly.min.css" rel="stylesheet" />
+<script src="site_libs/bootstrap-3.3.5/js/bootstrap.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/html5shiv.min.js"></script>
+<script src="site_libs/bootstrap-3.3.5/shim/respond.min.js"></script>
+<script src="site_libs/navigation-1.1/tabsets.js"></script>
+<link href="site_libs/highlightjs-9.12.0/default.css" rel="stylesheet" />
+<script src="site_libs/highlightjs-9.12.0/highlight.js"></script>
+<link href="site_libs/font-awesome-5.1.0/css/all.css" rel="stylesheet" />
+<link href="site_libs/font-awesome-5.1.0/css/v4-shims.css" rel="stylesheet" />
+
+<style type="text/css">
+  code{white-space: pre-wrap;}
+  span.smallcaps{font-variant: small-caps;}
+  span.underline{text-decoration: underline;}
+  div.column{display: inline-block; vertical-align: top; width: 50%;}
+  div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+  ul.task-list{list-style: none;}
+    </style>
+
+<style type="text/css">code{white-space: pre;}</style>
+<style type="text/css">
+  pre:not([class]) {
+    background-color: white;
+  }
+</style>
+<script type="text/javascript">
+if (window.hljs) {
+  hljs.configure({languages: []});
+  hljs.initHighlightingOnLoad();
+  if (document.readyState && document.readyState === "complete") {
+    window.setTimeout(function() { hljs.initHighlighting(); }, 0);
+  }
+}
+</script>
+
+
+
+<style type="text/css">
+h1 {
+  font-size: 34px;
+}
+h1.title {
+  font-size: 38px;
+}
+h2 {
+  font-size: 30px;
+}
+h3 {
+  font-size: 24px;
+}
+h4 {
+  font-size: 18px;
+}
+h5 {
+  font-size: 16px;
+}
+h6 {
+  font-size: 12px;
+}
+.table th:not([align]) {
+  text-align: left;
+}
+</style>
+
+
+<link rel="stylesheet" href="style.css" type="text/css" />
+
+
+
+<style type = "text/css">
+.main-container {
+  max-width: 940px;
+  margin-left: auto;
+  margin-right: auto;
+}
+code {
+  color: inherit;
+  background-color: rgba(0, 0, 0, 0.04);
+}
+img {
+  max-width:100%;
+}
+.tabbed-pane {
+  padding-top: 12px;
+}
+.html-widget {
+  margin-bottom: 20px;
+}
+button.code-folding-btn:focus {
+  outline: none;
+}
+summary {
+  display: list-item;
+}
+</style>
+
+
+<style type="text/css">
+/* padding for bootstrap navbar */
+body {
+  padding-top: 60px;
+  padding-bottom: 40px;
+}
+/* offset scroll position for anchor links (for fixed navbar)  */
+.section h1 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h2 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h3 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h4 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h5 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.section h6 {
+  padding-top: 65px;
+  margin-top: -65px;
+}
+.dropdown-submenu {
+  position: relative;
+}
+.dropdown-submenu>.dropdown-menu {
+  top: 0;
+  left: 100%;
+  margin-top: -6px;
+  margin-left: -1px;
+  border-radius: 0 6px 6px 6px;
+}
+.dropdown-submenu:hover>.dropdown-menu {
+  display: block;
+}
+.dropdown-submenu>a:after {
+  display: block;
+  content: " ";
+  float: right;
+  width: 0;
+  height: 0;
+  border-color: transparent;
+  border-style: solid;
+  border-width: 5px 0 5px 5px;
+  border-left-color: #cccccc;
+  margin-top: 5px;
+  margin-right: -10px;
+}
+.dropdown-submenu:hover>a:after {
+  border-left-color: #ffffff;
+}
+.dropdown-submenu.pull-left {
+  float: none;
+}
+.dropdown-submenu.pull-left>.dropdown-menu {
+  left: -100%;
+  margin-left: 10px;
+  border-radius: 6px 0 6px 6px;
+}
+</style>
+
+<script>
+// manage active state of menu based on current page
+$(document).ready(function () {
+  // active menu anchor
+  href = window.location.pathname
+  href = href.substr(href.lastIndexOf('/') + 1)
+  if (href === "")
+    href = "index.html";
+  var menuAnchor = $('a[href="' + href + '"]');
+
+  // mark it active
+  menuAnchor.parent().addClass('active');
+
+  // if it's got a parent navbar menu mark it active as well
+  menuAnchor.closest('li.dropdown').addClass('active');
+});
+</script>
+
+<!-- tabsets -->
+
+<style type="text/css">
+.tabset-dropdown > .nav-tabs {
+  display: inline-table;
+  max-height: 500px;
+  min-height: 44px;
+  overflow-y: auto;
+  background: white;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+.tabset-dropdown > .nav-tabs > li.active:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li.active:before {
+  content: "&#xe258;";
+  border: none;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open:before {
+  content: "";
+  font-family: 'Glyphicons Halflings';
+  display: inline-block;
+  padding: 10px;
+  border-right: 1px solid #ddd;
+}
+
+.tabset-dropdown > .nav-tabs > li.active {
+  display: block;
+}
+
+.tabset-dropdown > .nav-tabs > li > a,
+.tabset-dropdown > .nav-tabs > li > a:focus,
+.tabset-dropdown > .nav-tabs > li > a:hover {
+  border: none;
+  display: inline-block;
+  border-radius: 4px;
+  background-color: transparent;
+}
+
+.tabset-dropdown > .nav-tabs.nav-tabs-open > li {
+  display: block;
+  float: none;
+}
+
+.tabset-dropdown > .nav-tabs > li {
+  display: none;
+}
+</style>
+
+<!-- code folding -->
+
+
+
+
+</head>
+
+<body>
+
+
+<div class="container-fluid main-container">
+
+
+
+
+<div class="navbar navbar-default  navbar-fixed-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar">
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      <a class="navbar-brand" href="index.html">Dr. Adrian Stanciu</a>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse">
+      <ul class="nav navbar-nav">
+        <li>
+  <a href="index.html">
+    <span class="fas fa-home"></span>
+     
+    Home
+  </a>
+</li>
+<li>
+  <a href="about.html">
+    <span class="fas fa-info"></span>
+     
+    About Me
+  </a>
+</li>
+<li>
+  <a href="publications.html">
+    <span class="fas fa-newspaper"></span>
+     
+    Publications
+  </a>
+</li>
+<li>
+  <a href="presentations.html">
+    <span class="fas fa-file-powerpoint"></span>
+     
+    Presentations
+  </a>
+</li>
+<li>
+  <a href="teaching.html">
+    <span class="fas fa-chalkboard-teacher"></span>
+     
+    Teaching
+  </a>
+</li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        
+      </ul>
+    </div><!--/.nav-collapse -->
+  </div><!--/.container -->
+</div><!--/.navbar -->
+
+<div class="fluid-row" id="header">
+
+
+
+<h1 class="title toc-ignore">Presentations</h1>
+<h3 class="subtitle">My presentations. Open access.</h3>
+
+</div>
+
+
+<hr />
+<div id="section" class="section level3">
+<h3><strong>2019</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Stanciu, A. (2019). Horizontal transmission of elderly stereotypes from native population to immigrants: A multi-theory exploration across 29 countries. Presentation at the 4th ESS Conference, Mannheim, Germany. <a href="https://osf.io/vu6pa/">slides</a></p></li>
+<li><p>Witte, EH., <strong>Stanciu, A.</strong>, &amp; Boehnke, K. (2019). The Distribution Approach and The Averaging Approach: A Tale of Two Methodologies Meant to Measure Value Preferences at the Culture Level. Presentation at the 4th ESS Conference, Mannheim, Germany. <a href="https://osf.io/evhrf/">slides</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="section-1" class="section level3">
+<h3><strong>2018</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Stanciu, A. (2018). A new empirical approach to inter-cultural comparisons of value preferences based on Schwartz’s theory. Presentation at the ICS SPARC Group Seminar, Lisbon, Portugal. <a href="https://osf.io/5w2vj/">slides</a></p></li>
+<li><p>Stanciu, A., Witte, EH., &amp; Boehnke, K. (2018). A new empirical approach to inter-cultural comparisons of value preferences based on Schwartz’s theory. Presentation at the 51st Congress of the German Psychological Society (DGPs), Frankfurt am Main, Germany. <a href="https://osf.io/x9jgp/">slides</a></p></li>
+<li><p>Stanciu, A., Smallenbroek, O., Arant, R., &amp; Boehnke, K. (2018). Value development trajectories and political engagement in mid-adulthood: Evidence from a three-decade longitudinal study of peace movement sympathizers and activists. Presentation at the Conflict Research Society (CRS) Annual Conference, Birmingham, UK. <a href="https://osf.io/yehav/">slides</a></p></li>
+<li><p>Stanciu, A., Witte, EH., &amp; Boehnke, K. (2018). Introducing the ‘distribution approach’ as an alternative methodology to empirically arrive at value priorities at the culture level. Presentation at the IACCP International Congress, Guelph, Canada. <a href="https://osf.io/32zw8/">slides</a></p></li>
+<li><p>Stanciu, A. (2018). On how a combination of the Social Network Paradigm and focus group interviews can provide insights into ‘cultural fluidity’. Poster presentation at the IACCP International Congress, Guelph, Canada. <a href="https://osf.io/fr24x/">poster</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="section-2" class="section level3">
+<h3><strong>2017</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Stanciu, A. (2017). Overall and Contextually-Bound Well-Being: A Suggestion of Life Satisfaction as Different Facets of Well-Being. Presentation at the IACCP Regional Congress, Warsaw, Poland. <a href="https://osf.io/9r7nx/">slides</a></p></li>
+<li><p>Stanciu, A. (2017). Under-Represented Ethnic and Cultural Groups from the Eastern European Context. A Research Incubator for Young Academics, IACCP Regional Congress, Warsaw, Poland. (<em>Organized symposium</em>). <a href="https://osf.io/b359m/">slides</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="section-3" class="section level3">
+<h3><strong>2016</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Stanciu, A., Vauclair, CM., Koc, Y., Miconi, D., Farcas, D., Kisliogly, R., &amp; Rodda, N. (2016). Four Dimensions of Stereotypes: Evidence from Romania and a Seven-Culture Test of Structure Reliability. Presentation at the IACCP International Congress, Nagoya, Japan. <a href="https://osf.io/yvdez/">slides</a></p></li>
+<li><p>Stanciu, A. (2016). Stereotype Based Faultlines: The effects of a Stereotypically-Consistent Composition of Groups on Inter-Group Relations. Presentation at the ICP Congress, Yokohama, Japan. <a href="https://osf.io/8pwhg/">slides</a></p></li>
+<li><p>Stanciu, A. (2016). Adaptation of Personal Stereotypes to Cultural Stereotypes: Research Suggestions and Initial Evidence. Presentation at Diaspora Conference on Research and Graduate Education in Romania, Timisoara, Romania. <a href="https://osf.io/m6f8j/">slides</a></p></li>
+<li><p>Irem, U., Alper, S., Kemmelmeier, M.,…<strong>Stanciu, A.</strong>…Quero, B. (2016). The Position But Not the Omission of Pronouns Influences Self-Construal. Presentation at the 17th Annual Conventiaon of Society for Personality and Social Psychology, Sand Diego, USA.</p></li>
+</ol>
+<hr />
+</div>
+<div id="section-4" class="section level3">
+<h3><strong>2015</strong></h3>
+<ol style="list-style-type: decimal">
+<li>Stanciu, A. (2015). When Stereotypes Acculturate. Cognitive Adaptation Patterns of Romanian Migrants in Four European Countries. Presentation at the IAIR international Congress, Bergen, Norway. <a href="https://osf.io/x8mks/">slides</a></li>
+</ol>
+<hr />
+</div>
+<div id="section-5" class="section level3">
+<h3><strong>2014</strong></h3>
+<ol style="list-style-type: decimal">
+<li><p>Stanciu, A. (2014). Have You Heard of the Maneliști? An Incursion Into the Cultural Stereotypes of Romanians. Presentation at the IACCP International Congress, Reims, France. <a href="https://osf.io/fzbg9/">slides</a></p></li>
+<li><p>Stanciu, A. (2014). Introducing the Integrative Model of Stereotype Acculturation (tIMoSA): A Complementary Psychological and Sociological Perspective About the Stereotypes Held by Migrants. Presentation at the IACCP International Congress, Reims, France. <a href="https://osf.io/msbdg/">slides</a></p></li>
+<li><p>Stanciu, A. (2014). The Roles of Culture and Migration in Shaping and Re-shaping the Content of Stereotypes. Presentation at the 28th EFPSA Congress, Baile Felix, Romania. <a href="https://osf.io/mt43g/">slides</a></p></li>
+<li><p>Stanciu, A. (2014). From Pieces To the Whole Using Structural Equation Modelling: The Case of Scale Construction for Measuring Stereotype Content In the Romanian Cultural Context. Presentation at SocLife Spring Workshop on Statistics, Cologne, Germany. <a href="https://osf.io/baj2d/">slides</a></p></li>
+<li><p>Stanciu, A. (2014). The Integrative Model of Stereotype Acculturation. A joint Psychological and Sociological Perspective About the Changes in Stereotypes Held by Migrants. Presentation at MIGREMUS Colloquium on International and Spatial Mobility, Bremen, Germany. <a href="https://osf.io/z93ew/">slides</a></p></li>
+</ol>
+<hr />
+</div>
+<div id="section-6" class="section level3">
+<h3><strong>2013</strong></h3>
+<ol style="list-style-type: decimal">
+<li>Stanciu, A. (2013). When Stereotypes Acculturate: The Integrative Model of Stereotype Acculturation. Presentation at SoDoc-2013 PhD Workshop, Cologne, Germany. <a href="https://osf.io/rmcjv/">slides</a></li>
+</ol>
+</div>
+
+
+
+
+</div>
+
+<script>
+
+// add bootstrap table styles to pandoc tables
+function bootstrapStylePandocTables() {
+  $('tr.odd').parent('tbody').parent('table').addClass('table table-condensed');
+}
+$(document).ready(function () {
+  bootstrapStylePandocTables();
+});
+
+
+</script>
+
+<!-- tabsets -->
+
+<script>
+$(document).ready(function () {
+  window.buildTabsets("TOC");
+});
+
+$(document).ready(function () {
+  $('.tabset-dropdown > .nav-tabs > li').click(function () {
+    $(this).parent().toggleClass('nav-tabs-open')
+  });
+});
+</script>
+
+<!-- code folding -->
+
+
+<!-- dynamically load mathjax for compatibility with self-contained -->
+<script>
+  (function () {
+    var script = document.createElement("script");
+    script.type = "text/javascript";
+    script.src  = "https://mathjax.rstudio.com/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML";
+    document.getElementsByTagName("head")[0].appendChild(script);
+  })();
+</script>
+
+</body>
+</html>

@@ -1,0 +1,24 @@
+name: "adrians-website"
+output_dir: "."
+navbar:
+  title: "Dr. Adrian Stanciu"
+  left:
+    - text: "Home"
+      icon: fa-home
+      href: index.html
+    - text: "About Me"
+      icon: fa-info
+      href: about.html
+    - text: "Publications"
+      icon: fa-newspaper
+      href: publications.html
+    - text: "Presentations"
+      icon: fa-file-powerpoint
+      href: presentations.html
+    - text: "Teaching"
+      icon: fa-chalkboard-teacher
+      href: teaching.html
+output:
+  html_document:
+    theme: flatly
+    css: style.css
