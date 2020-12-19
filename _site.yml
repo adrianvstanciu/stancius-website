@@ -5,10 +5,10 @@ navbar:
   left:
     - text: "About Me"
       icon: fa-info
-      href: about.html
+      href: index.html
     - text: "Home"
       icon: fa-home
-      href: index.html
+      href: home.html
     - text: "Publications"
       icon: fa-newspaper
       href: publications.html
