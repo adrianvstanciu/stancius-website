@@ -1,14 +1,14 @@
-name: "adrians-website"
+name: "adrianvstanciu.github.io"
 output_dir: "."
 navbar:
   title: "Dr. Adrian Stanciu"
   left:
-    - text: "Home"
-      icon: fa-home
-      href: index.html
     - text: "About Me"
       icon: fa-info
       href: about.html
+    - text: "Home"
+      icon: fa-home
+      href: index.html
     - text: "Publications"
       icon: fa-newspaper
       href: publications.html
