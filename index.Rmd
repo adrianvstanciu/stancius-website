@@ -21,12 +21,13 @@ ___
 
 Ageing, assessment theory, cross-cultural research, individual and cultural change, inter-individual and inter-group relations, open science, stereotypes, values.
 
-</center>
+### **Check out my...**
 
+...[guide](sitedummy.html) for complete beginners on how to build a personalized website using ```R```, ```RStudio```, and ```GitHub```. 
+
+</center>
 ___
 I am a (cross-cultural) social scientist interseted in researching on values, stereotype accommodation as well old age stereotypes and discrimination. More recently, I also research on methods-related issues. I hold degrees in Sociology, Social Sciences and Psychology from universities in Romania, the Netherlands and Germany respectively. Currently, I am a visiting scholar to prof. [Klaus Boehnke](https://www.jacobs-university.de/directory/kboehnke) at the department of Psychology and Methods, Jacobs University Bremen.
-
-**As of 1.12.20, I am on the job market, and looking for a position as a post-doctoral researcher or assistant professor in social-psychology combining methodology, open science, and applied questions.**
 
 After eight years in Germany, I am excited to now possess double nationality, Romanian-German!
 
