@@ -141,7 +141,7 @@ git --version
 
 <center>
 
-![```Terminal``` with git version 2.29.2.](gitcodeterm.png)
+![```Terminal``` with git version 2.29.2.](img/gitcodeterm.png)
 
 </center> 
 
@@ -193,7 +193,7 @@ Go to your GitHub online account, sign in and...
 
 <center> 
 
-![Add your SSH key.](sshkey.gif){ width=150%}
+![Add your SSH key.](gif/sshkey.gif){ width=150%}
 
 </center>
 
@@ -229,7 +229,7 @@ a) Create your ```repository``` at GitHub.
 
 <center>
 
-![Your repository on GitHub.](creategithubrepos.gif){ width=150%}
+![Your repository on GitHub.](gif/creategithubrepos.gif){ width=150%}
 </center>
 
 b) You want to next ```clone``` that repository and have it delivered to your local machine. To ```clone``` a repository is another way of saying *copy/pasting* the contents of that reposity on your computer. It is copy/paste in the sense of taking content from one place and depositing somewhere else. It is *cloning* however, because you'll have the identical content both on your local machine and the GitHub repository. 
@@ -250,7 +250,7 @@ git clone <your perrsonal link on GitHub> !replace  <your personal link on GitHu
 
 <center>
 
-![Where is your personal link on GitHub.](yourgithublink.gif){ width=150%}
+![Where is your personal link on GitHub.](gif/yourgithublink.gif){ width=150%}
 
 </center>
 
@@ -326,7 +326,7 @@ To create your ```Rproject```, follow these steps.
 
 <center>
 
-![Associate an Rproject with your repository.](associaterproj.gif){ width=150%}
+![Associate an Rproject with your repository.](gif/associaterproj.gif){ width=150%}
 </center>
 
 This will create a file ```.Rproj``` inside your working directory (repository). You can use this now to open your project. Try this short-cut by quitting your RStudio first, and then double-cliking the short-cut in ```Finder``` or ```Windows explorer```. When you open the project, you are automatically inside the desired repository. Magic!
@@ -362,7 +362,7 @@ Font Awesome is a repository of icons that can be integrated seeminglesly with `
 
 <center>
 
-![Find your icons.](faicons.gif){ width=150%}
+![Find your icons.](gif/faicons.gif){ width=150%}
 
 </center>
 
@@ -437,7 +437,7 @@ From now on, whenever you want to **preview** your page, you can ```knit``` it a
 
 <center>
 
-![Kniting is amazing!](knitprev.gif){ width=150%}
+![Kniting is amazing!](gif/knitprev.gif){ width=150%}
 
 </center>
 
@@ -468,7 +468,7 @@ When you are satisfied with the way your website looks, and you are ready to hav
   
   <center>
   
-  ![My current *commit*.](commit.png){ width=150%}
+  ![My current *commit*.](img/commit.png){ width=150%}
   
   </center>
 
@@ -491,11 +491,11 @@ ___
 
 It will take a bit of time for GitHub to put everything together. But don't worry, your website is shorty online. To find its address, do this:
 
-1. ![](whereismysite1.png){ width=200%}
+1. ![](img/whereismysite1.png){ width=200%}
 
 After you click on ```Settings```, scroll down untill you reach the GitHub Pages section. Make sure to change under ```Source``` the branch that corresponds to your repository. In my case it is ```main```. Then save. After that you will have your address displayed as shown in the green elipse below. 
 
-2. ![](whereismysite2.png){ width=200%}
+2. ![](img/whereismysite2.png){ width=200%}
 
 **Note**: Only add something in the ```Custom domain``` field if you *want* a personal DNS name. Otherwise, leave blank. 
 
@@ -517,7 +517,7 @@ Got to your custom DNS provider and follow the instructions there, which should 
 
 <center>
 
-![Manage your DNZ specs.](customdns1.png){ width=200%}
+![Manage your DNZ specs.](img/customdns1.png){ width=200%}
 
 </center>
 
@@ -529,7 +529,7 @@ Got to your custom DNS provider and follow the instructions there, which should 
 
 <center>
 
-![](customdns2.png){ width=200%}
+![](img/customdns2.png){ width=200%}
 </center>
 
 6. After all 4 records are created, and they look like above (see nr. 2), then you are good to go! Go back to your GitHub account, and see whether your custom website address is now displayed, and if you get the green for go. 
@@ -551,11 +551,19 @@ Your website is now ready to be shown to the world!
 
 One final thing you should be aware of is that if you've chosen a custom domain, you've created a website that can be accessed only with the prefix ```https://```. You will notice that typing ```www.``` redirects you to a non-existent page. That is because you haven't specified this particular prefix in your DNS provider, yet. I leave this task to you, should you want to do it. 
 
+*Also a big thank you to you for reading and trying out this guide.*
+
+<a href="#top"> Go to top </a>
+
+___
+## **What next?**
+
 Once more, I want to mention [Nick Strayer's](http://nickstrayer.me/RMarkdown_Sites_tutorial/) and [Dan Quintana's](https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/) influence on creating this guide, much of it is written in a way simplified language here. Have a look at their guides as well. 
 
 Also, you can further read the official [guide](https://bookdown.org/yihui/rmarkdown/websites.html) from ```Rmarkdown``` developers on how to use the package for website building. 
 
-*Also a big thank you to you for reading and trying out this guide.*
+Or continue getting better at creating your website reading this amazing [book](https://bookdown.org/yihui/blogdown/) by Yihui Xie, Amber Thomas, and Alison Presmanes Hill.
+
 
 <center>
 

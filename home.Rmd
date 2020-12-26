@@ -30,7 +30,7 @@ ___
 ### **Visiting scholar at Jacobs University**
 *New status, next stage in research and teaching.*
 
-[![](http://iwuensche.user.jacobs-university.de/wp-content/uploads/2015/09/Jacobs_University_Logo.jpg){ width=25% align="left" title="Jacobs Uni"}](https://www.jacobs-university.de/)
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jacobs_University_Bremen_logo.svg/220px-Jacobs_University_Bremen_logo.svg.png){ width=25% align="left" title="Jacobs Uni"}](https://www.jacobs-university.de/)
 
 <br />
 <br />
@@ -103,7 +103,7 @@ I argue that value preferences of young adults preced any threat perceptions and
 
 <center>
 
-![Figure 1. Direct effects at level-1 for blatant (above) and subtle (below) ageism.](agesociety_fig2.jpg){title="Results of level-1 mediation models"}
+![Figure 1. Direct effects at level-1 for blatant (above) and subtle (below) ageism.](img/agesociety_fig2.jpg){title="Results of level-1 mediation models"}
 
 </center>
 
@@ -119,7 +119,7 @@ ___
 ### **Editorial board at JSPP**
 *Fully open access journal. Publishes extensively from under-represented contexts.*
 
-[![](jspp.png){ width=50% align="left" title="Editorial board member JSPP"}](https://jspp.psychopen.eu/index.php/jspp/ed-board)
+[![](img/jspp.png){ width=50% align="left" title="Editorial board member JSPP"}](https://jspp.psychopen.eu/index.php/jspp/ed-board)
 
 <br />
 <br />
@@ -223,7 +223,7 @@ ___
 <br />
 <br />
 
-Building on the theoretical framework and concept introduced in Stanciu and Vauclair (2018), in [this](stanciuetal2019.pdf) paper we ([CM Vauclair](https://www.researchgate.net/profile/Melanie_Vauclair), [N Rodda](http://ehess.fr/), and myself) test the stereotype accommodation hypothesis in samples of Romanian immigrants in Germany and France. 
+Building on the theoretical framework and concept introduced in Stanciu and Vauclair (2018), in [this](pdf/stanciuetal2019.pdf) paper we ([CM Vauclair](https://www.researchgate.net/profile/Melanie_Vauclair), [N Rodda](http://ehess.fr/), and myself) test the stereotype accommodation hypothesis in samples of Romanian immigrants in Germany and France. 
 
 Abstract
 
@@ -252,7 +252,7 @@ We define **stereotype accommodation** *as a cognitive process whereby migrants 
 
 <center>
 
-![Figure 1. A framework of the cross-cultural differences, learning opportunities, individual differences, and cognitive resources in the study of how disconfirming/novel stereotype-relevant information is incorporated toward stereotype accommodation.](fig1stanciuvauclair18.png){ width=75% title="Theoretical framework"}
+![Figure 1. A framework of the cross-cultural differences, learning opportunities, individual differences, and cognitive resources in the study of how disconfirming/novel stereotype-relevant information is incorporated toward stereotype accommodation.](img/fig1stanciuvauclair18.png){ width=75% title="Theoretical framework"}
 
 </center>
 

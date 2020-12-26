@@ -5,14 +5,14 @@ ___
 
 <center>
 
-![In front of Basilica of Venice, before the 2nd lockdown of 2020.](stanciu_foto.jpg){ title="In front of camera held by M.Bernardes"} 
+![In front of Basilica of Venice, before the 2nd lockdown of 2020.](img/stanciu_foto.jpg){ title="In front of camera held by M.Bernardes"} 
 
 </center>
 
 ___
 <center>
 
-[![](gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp; [![](orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829) &nbsp; &nbsp; &nbsp; &nbsp; [![](rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;  [![](twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp; [![](blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
+[![](img/gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829) &nbsp; &nbsp; &nbsp; &nbsp; [![](img/rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;  [![](img/twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
 
 </center>
 ___
@@ -27,7 +27,9 @@ Ageing, assessment theory, cross-cultural research, individual and cultural chan
 
 </center>
 ___
-I am a (cross-cultural) social scientist interseted in researching on values, stereotype accommodation as well old age stereotypes and discrimination. More recently, I also research on methods-related issues. I hold degrees in Sociology, Social Sciences and Psychology from universities in Romania, the Netherlands and Germany respectively. Currently, I am a visiting scholar to prof. [Klaus Boehnke](https://www.jacobs-university.de/directory/kboehnke) at the department of Psychology and Methods, Jacobs University Bremen.
+I am a (cross-cultural) social psychologist interseted in researching on values, stereotype accommodation as well as old age stereotypes and discrimination. More recently, I also research on methods-related issues. I hold degrees in Sociology, Social Sciences and Psychology from universities in Romania, the Netherlands and Germany respectively. 
+
+Currently, I am a visiting scholar to prof. [Klaus Boehnke](https://www.jacobs-university.de/directory/kboehnke) at the department of Psychology and Methods, Jacobs University Bremen. In the coming days I will also disclose my new employer.
 
 After eight years in Germany, I am excited to now possess double nationality, Romanian-German!
 
@@ -35,8 +37,11 @@ I believe in research and teaching which treat participating individuals as huma
 
 I am still developing my academic profile so I kindly ask for your patience and constant interest in my current, ongoing as well future contributions.
 
-Sincerely,
-
+<br/>
+<br/>
 Dr. Adrian Stanciu
+
+___
+*PS: My website does not use cookies technology. Check yourself by following this set of [instructions](https://www.cookielawinfo.com/does-my-website-use-cookies/).*
 
 ___

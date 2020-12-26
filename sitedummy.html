@@ -516,7 +516,7 @@ div.tocify {
 <pre><code>git --version</code></pre>
 <center>
 <div class="figure">
-<img src="gitcodeterm.png" alt="Terminal with git version 2.29.2." />
+<img src="img/gitcodeterm.png" alt="Terminal with git version 2.29.2." />
 <p class="caption"><code>Terminal</code> with git version 2.29.2.</p>
 </div>
 </center>
@@ -546,7 +546,7 @@ ssh-add ~/.ssh/id_rsa ! this verifies if you have set up a correct key</code></p
 <p>Go to your GitHub online account, sign in and…</p>
 <center>
 <div class="figure">
-<img src="sshkey.gif" alt="Add your SSH key." style="width:150.0%" />
+<img src="gif/sshkey.gif" alt="Add your SSH key." style="width:150.0%" />
 <p class="caption">Add your SSH key.</p>
 </div>
 </center>
@@ -568,7 +568,7 @@ Are you sure you want to continue connecting (yes/no)?</code></pre>
 <li>Create your <code>repository</code> at GitHub.</li>
 </ol>
 <center>
-<img src="creategithubrepos.gif" alt="Your repository on GitHub." style="width:150.0%" />
+<img src="gif/creategithubrepos.gif" alt="Your repository on GitHub." style="width:150.0%" />
 </center>
 <ol start="2" style="list-style-type: lower-alpha">
 <li>You want to next <code>clone</code> that repository and have it delivered to your local machine. To <code>clone</code> a repository is another way of saying <em>copy/pasting</em> the contents of that reposity on your computer. It is copy/paste in the sense of taking content from one place and depositing somewhere else. It is <em>cloning</em> however, because you’ll have the identical content both on your local machine and the GitHub repository.</li>
@@ -586,7 +586,7 @@ Are you sure you want to continue connecting (yes/no)?</code></pre>
 </ul>
 <center>
 <div class="figure">
-<img src="yourgithublink.gif" alt="Where is your personal link on GitHub." style="width:150.0%" />
+<img src="gif/yourgithublink.gif" alt="Where is your personal link on GitHub." style="width:150.0%" />
 <p class="caption">Where is your personal link on GitHub.</p>
 </div>
 </center>
@@ -638,7 +638,7 @@ touch anotherpage.Rmd !this is another empty page that you can name and populate
 <p>Now you have the option to begin editing them, or to help your future self a bit more. You can create an <code>R project</code> that will allow you to open your website project directly from <code>Finder</code> or <code>Windows explores</code>. Think of this as a short cut to your <code>RStudio</code> where you work on your website.</p>
 <p>To create your <code>Rproject</code>, follow these steps.</p>
 <center>
-<img src="associaterproj.gif" alt="Associate an Rproject with your repository." style="width:150.0%" />
+<img src="gif/associaterproj.gif" alt="Associate an Rproject with your repository." style="width:150.0%" />
 </center>
 <p>This will create a file <code>.Rproj</code> inside your working directory (repository). You can use this now to open your project. Try this short-cut by quitting your RStudio first, and then double-cliking the short-cut in <code>Finder</code> or <code>Windows explorer</code>. When you open the project, you are automatically inside the desired repository. Magic!</p>
 <p>From now on, everything happens inside the <code>RStudio</code>. Well, almost…</p>
@@ -665,7 +665,7 @@ output: ## this is about the output itself, here are settings of the page
 <p>Font Awesome is a repository of icons that can be integrated seeminglesly with <code>R</code>. When you open the website, use the <em>search bar</em> (upper-left corner) and type in whatever your heart desires. For example, <code>house</code>. You will get a number of hits, from which you can choose the icon you like best. Open it and then copy the html value (<code>fa-house-user</code> in the example below) and paste it into your <code>_site.yml</code> text above. Be careful to select an icon that is <strong>free</strong>, otherwise nothing will be shown on your website!</p>
 <center>
 <div class="figure">
-<img src="faicons.gif" alt="Find your icons." style="width:150.0%" />
+<img src="gif/faicons.gif" alt="Find your icons." style="width:150.0%" />
 <p class="caption">Find your icons.</p>
 </div>
 </center>
@@ -725,7 +725,7 @@ rmarkdown::render_site() </code></pre>
 <p>From now on, whenever you want to <strong>preview</strong> your page, you can <code>knit</code> it and see the way it looks next to the <code>source</code> panel. Have fun!</p>
 <center>
 <div class="figure">
-<img src="knitprev.gif" alt="Kniting is amazing!" style="width:150.0%" />
+<img src="gif/knitprev.gif" alt="Kniting is amazing!" style="width:150.0%" />
 <p class="caption">Kniting is amazing!</p>
 </div>
 </center>
@@ -751,7 +751,7 @@ rmarkdown::render_site() </code></pre>
 <pre><code>git commit -m &quot;This is the first website I made.&quot; ## see in red below</code></pre>
 <center>
 <div class="figure">
-<img src="commit.png" alt="My current commit." style="width:150.0%" />
+<img src="img/commit.png" alt="My current commit." style="width:150.0%" />
 <p class="caption">My current <em>commit</em>.</p>
 </div>
 </center>
@@ -770,11 +770,11 @@ rmarkdown::render_site() </code></pre>
 <h3><strong>1. The non-personalized one</strong></h3>
 <p>It will take a bit of time for GitHub to put everything together. But don’t worry, your website is shorty online. To find its address, do this:</p>
 <ol style="list-style-type: decimal">
-<li><img src="whereismysite1.png" style="width:200.0%" /></li>
+<li><img src="img/whereismysite1.png" style="width:200.0%" /></li>
 </ol>
 <p>After you click on <code>Settings</code>, scroll down untill you reach the GitHub Pages section. Make sure to change under <code>Source</code> the branch that corresponds to your repository. In my case it is <code>main</code>. Then save. After that you will have your address displayed as shown in the green elipse below.</p>
 <ol start="2" style="list-style-type: decimal">
-<li><img src="whereismysite2.png" style="width:200.0%" /></li>
+<li><img src="img/whereismysite2.png" style="width:200.0%" /></li>
 </ol>
 <p><strong>Note</strong>: Only add something in the <code>Custom domain</code> field if you <em>want</em> a personal DNS name. Otherwise, leave blank.</p>
 <center>
@@ -791,7 +791,7 @@ rmarkdown::render_site() </code></pre>
 </ol>
 <center>
 <div class="figure">
-<img src="customdns1.png" alt="Manage your DNZ specs." style="width:200.0%" />
+<img src="img/customdns1.png" alt="Manage your DNZ specs." style="width:200.0%" />
 <p class="caption">Manage your DNZ specs.</p>
 </div>
 </center>
@@ -801,7 +801,7 @@ rmarkdown::render_site() </code></pre>
 <li><p>Add four new records, as shown below. Make sure to have the <code>A (IPv4 Address)</code> selected.</p></li>
 </ol>
 <center>
-<img src="customdns2.png" style="width:200.0%" />
+<img src="img/customdns2.png" style="width:200.0%" />
 </center>
 <ol start="6" style="list-style-type: decimal">
 <li><p>After all 4 records are created, and they look like above (see nr. 2), then you are good to go! Go back to your GitHub account, and see whether your custom website address is now displayed, and if you get the green for go.</p></li>
@@ -818,9 +818,15 @@ rmarkdown::render_site() </code></pre>
 <h2><strong>Website is ready</strong></h2>
 <p>Your website is now ready to be shown to the world!</p>
 <p>One final thing you should be aware of is that if you’ve chosen a custom domain, you’ve created a website that can be accessed only with the prefix <code>https://</code>. You will notice that typing <code>www.</code> redirects you to a non-existent page. That is because you haven’t specified this particular prefix in your DNS provider, yet. I leave this task to you, should you want to do it.</p>
+<p><em>Also a big thank you to you for reading and trying out this guide.</em></p>
+<p><a href="#top"> Go to top </a></p>
+<hr />
+</div>
+<div id="what-next" class="section level2">
+<h2><strong>What next?</strong></h2>
 <p>Once more, I want to mention <a href="http://nickstrayer.me/RMarkdown_Sites_tutorial/">Nick Strayer’s</a> and <a href="https://www.dsquintana.blog/create-an-academic-website-free-easy-2020/">Dan Quintana’s</a> influence on creating this guide, much of it is written in a way simplified language here. Have a look at their guides as well.</p>
 <p>Also, you can further read the official <a href="https://bookdown.org/yihui/rmarkdown/websites.html">guide</a> from <code>Rmarkdown</code> developers on how to use the package for website building.</p>
-<p><em>Also a big thank you to you for reading and trying out this guide.</em></p>
+<p>Or continue getting better at creating your website reading this amazing <a href="https://bookdown.org/yihui/blogdown/">book</a> by Yihui Xie, Amber Thomas, and Alison Presmanes Hill.</p>
 <center>
 <p><a href="https://www.youtube.com/watch?v=QRJ38y4Jn6k"><img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2F78.media.tumblr.com%2F8c2611bebb079a952f108425ec616636%2Ftumblr_o2icefZ4Fa1qkh5k8o2_r1_500.gif&amp;f=1&amp;nofb=1" /></a></p>
 </center>
