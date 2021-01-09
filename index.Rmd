@@ -25,10 +25,6 @@ Ageing, assessment theory, cross-cultural research, individual and cultural chan
 
 ...[guide](sitedummy.html) for complete beginners on how to build a personalized website using ```R```, ```RStudio```, and ```GitHub```. 
 
-### **Get in touch**
-
-You can write an email at ```stanciu.v.adrian[at]gmail.com```.
-
 </center>
 
 ___
