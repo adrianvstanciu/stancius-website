@@ -18,13 +18,10 @@ navbar:
     - text: "Teaching"
       icon: fa-chalkboard-teacher
       href: teaching.html
-    - text: "Contact"
-      icon: fa-envelope
-      href: contact.html
 output:
   html_document:
     theme: flatly
-    css: [style.css, contact-form.css]
+    css: style.css
     includes:
       in_header: header.html
       
