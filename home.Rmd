@@ -2,6 +2,24 @@
 title: "Home"
 subtitle: "News. Accomplishments. Opinions."
 ---
+
+___
+### **Post-doctoral position at GESIS**
+*As of **01.02.21**, I am a post-doctoral researcher in Team Social Survey at GESIS-Mannehim.*
+
+[![](https://www.gesis.org/typo3conf/ext/gesis_web_ext/Resources/Public/Styles/Frontend/img/gs_home_logo_en.svg){ width=30% align="left" title="GESIS"}](https://www.gesis.org/en/home/)
+
+<br />
+<br />
+<br />
+
+
+[GESIS-Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home/) "is the largest German infrastructure institute for the social sciences. It is headquartered in Mannheim, with a location in Cologne. With basic research-based services and consulting covering all levels of the scientific process, GESIS supports researchers in the social sciences." (quote from the [Wikipedia](https://en.wikipedia.org/wiki/GESIS_%E2%80%93_Leibniz_Institute_for_the_Social_Sciences) page)
+
+I am joining the Team Social Surveys lead by [Dr. Oshrat Hochman](https://www.researchgate.net/profile/Oshrat_Hochman), and my main task is to contribute to the development and monitoring of the German General Social Survey (also known as [ALLBUS](https://www.gesis.org/en/allbus/allbus-home/)). In addition, I will continue all my ongoing projects. 
+
+<a href="#top"> Go to top </a>
+
 ___
 ### **Associate Editor at ORPC**
 *Starting on **01.01.21**, I am joining the editorial team at Online Readings in Psychology and Culture.*
