@@ -1,18 +1,13 @@
 ---
-name: Marie #### TO BE POPULATED WITH OWN INFORMATION ####
-surname: Curie
-position: "Professor"
-address: "School of Physics & Chemistry, École Normale Supérieure"
-phone: +1 22 3333 4444
-www: mariecurie.com
-email: "Marie.Curie@ens.fr"
-twitter: mariecurie
-github: mariecurie
-linkedin: mariecurie
+name: Adrian
+surname: Stanciu
+position: "Post Doctoral Researcher"
+address: "GESIS-Leibniz Institute for the Social Sciences"
+www: adrianstanciu.eu
+email: "Adrian.Stanciu@gesis.org"
+twitter: adrianvstanciu
 date: "`r format(Sys.time(), '%B %Y')`"
-output: 
-  vitae::latexcv:
-    theme: classic
+output: vitae::hyndman
 ---
 
 ```{r setup, include=FALSE}
@@ -20,47 +15,148 @@ knitr::opts_chunk$set(echo = FALSE, warning = FALSE, message = FALSE)
 library(vitae)
 ```
 
-# Some stuff about me
+# Research interests
 
- * I poisoned myself doing research.
- * I was the first woman to win a Nobel prize
- * I was the first person and only woman to win a Nobel prize in two different sciences.
+Ageing, assessment theory, cross-cultural research, individual and cultural change, 
+inter-individual and inter-group relations, stereotypes, values. 
 
-# Education
+# Current & Past Positions
 
 ```{r}
 library(tibble)
 tribble(
-  ~ Degree, ~ Year, ~ Institution, ~ Where,
-  "Informal studies", "1889-91", "Flying University", "Warsaw, Poland",
-  "Master of Physics", "1893", "Sorbonne Université", "Paris, France",
-  "Master of Mathematics", "1894", "Sorbonne Université", "Paris, France"
+  ~ Job, ~ Year, ~ Institution, ~ Location,
+  "Post-Doc", "2021-", "GESIS-Leibniz Institute for the Social Sciences", "Mannheim, DE",
+  "Visiting Scholar", "2017- ", "Jacobs University Bremen", "Bremen, De",
+  "Post-Doc", "2017-20", "Vechta University", "Vechta, DE",
+  "Visiting Researcher", "2018.11", "Sparc Group, ICS", "Lisbon, PT",
+  "Research Associate", "2016-17", "Jacobs University Bremen", "Bremen, DE",
+  "Teaching Assistant", "2016.02-03", "Jacobs Unviersity Bremen", "Bremen, DE",
+  "Research Assistant", "2015-16", "Jacobs Unviersity Bremen", "Bremen, DE",
+  "Research Associate", "2012.04-05", "University of Groningen", "Groningen, NL",
+  "Teaching Assistant", "2011-12", "University of Groningen", "Groningen, NL",
+  "Teaching Assistant", "2011.01-07", "University of Groningen", "Groningen, NL",
+  "Research Assistant", "2009-11", "University of Groningen", "Groningen, NL",
+  "Student Assistant", "2008-09", "University of Bucharest", "Bucharest,RO"
 ) %>% 
-  detailed_entries(Degree, Year, Institution, Where)
+  detailed_entries(Job, Year, Institution, Location)
 ```
 
-# Nobel Prizes
+# Education
 
 ```{r}
 tribble(
-  ~Year, ~Type, ~Desc,
-  1903, "Physics", "Awarded for her work on radioactivity with Pierre Curie and Henri Becquerel",
-  1911, "Chemistry", "Awarded for the discovery of radium and polonium"
+  ~ Degree, ~ Year, ~ Institution, ~ Location,
+  "PhD Psychology", "2012-17", "BIGSSS", "Bremen, DE",
+  "Msc Behavioral and Social Sciences", "2009-11", "University of Groningen", "Groningen, NL",
+  "BA Sociology", "2006-09", "University of Bucharest", "Bucharest, RO"
 ) %>% 
-  brief_entries(
-    glue::glue("Nobel Prize in {Type}"),
-    Year, 
-    Desc
-  )
+  detailed_entries(Degree, Year, Institution, Location)
 ```
 
-# Publications
+# Further training
+
+```{r}
+tribble(
+  ~ Topic, ~ Year, ~ Institution, ~ Location,
+  "Methods: Introduction to Data Science with Python", "2019.07", "GESIS-Leibniz Institute for the Social Sciences", "Cologne, DE",
+  "Summer School: Cultural Genomics", "2014.07", "IACCP Congress", "Reims, FR",
+  "Methods: Desining and Implementation of Longitudinal Surveys", "2013.08", "GESIS-Leibniz Institute for the Social Sciences", "Cologne, DE",
+  "Methods: Communication and Cultural Dynamics", "2013.02", "University of Groningen", "Groningen, NL",
+  "Summer School: Applied Multivariate Statistics", "2009.08", "Utrecht University", "Utrecht, NL"
+) %>% 
+  detailed_entries(Topic, Year, Institution, Location)
+```
+
+# Awards & Grants
+
+```{r}
+tribble(
+  ~ What, ~ Year, ~ Institution,
+  "[short listed] Open Call for Independent Projects for Post-Docs", "2020", "Central Research Developmental Fund, University of Bremen",
+  "German Academic Exchange (DAAD) travel grant", "2018,15", "IACCP Congress",
+  "Witkon-Okonji travel grant", "2017,16", "IACCP Congress",
+  "Stipend for doctoral dissertation completion", "2016", "FAZIT Stiftung",
+  "Research stay grant for ISCTE-Lisbon, PT", "2015", "BIGSSS"
+) %>% 
+  detailed_entries(What, Year, Institution)
+```
+
+# Teaching
+
+```{r}
+tribble(
+  ~ What, ~ Semst, ~ Type, ~ Institution,
+  "Vielfalt der Altersbildern und deren Auswirkung", "WiSe2020/21", "Guest-contribution in eGenerale online Course", "University of Bremen, DE",
+  "Heterogenitaet des Alterns aus psychologischer Perspektive", "WiSe2018/19;SoSe2019,20", "Seminar", "University of Vechta, DE",
+  "Introduction to Reading and Understanding Research Articles in Psychology", "SoSe2018,19;WiSe2019/20", "Seminar", "University of Vechta, DE",
+  "Psychologische Forschung zu Altersbildern-Entstehung und Folgen", "WiSe2018/19,19/20", "Seminar", "University of Vechta, DE",
+  "Current Debates in Group Processes and Intergroup Relations", "WiSe2017/18", "Seminar", "Jacobs University Bremen, DE",
+  "(Mediated) Intercultural Communication (ta)", "SoSe2016", "Course", "Jacobs University Bremen, DE",
+  "Introduction to Empirical Research and Research Design (ta)", "WiSe2013/14", "Course", "Jacobs University Bremen, DE",
+  "Dynamics of Research: From an Idea to a Manuscript", "2018.08", "Workshop", "Mircea Vulcanescu Summer School, RO", 
+  "Statistics 1A&B (ta)", "WiSe2011/12;SoSe2012", "Tutorial", "University of Groningen, NL",
+  "Research Practicum (ta)", "SoSe2011", "Tutorial", "University of Groningen, NL"
+) %>% 
+  detailed_entries(What, Semst, Type, Institution)
+```
+
+# Academic Contributions
+
+## Peer-Reviewed
 
 ```{r}
 library(dplyr)
-knitr::write_bib(c("vitae", "tibble"), "packages.bib")
+knitr::write_bib(c("article"), "peerrev.bib")
 
-bibliography_entries("packages.bib") %>%
-  arrange(desc(author$family), issued)
+bibliography_entries("peerrev.bib") %>%
+  arrange(desc(author$family))
 ```
+
+## Pre-Prints
+
+```{r}
+knitr::write_bib(c("article"), "preprint.bib")
+
+bibliography_entries("preprint.bib") %>%
+  arrange(desc(author$family))
+```
+
+## Book Contributions
+
+```{r}
+knitr::write_bib(c("incollection","book"), "books.bib")
+
+bibliography_entries("books.bib") %>%
+  arrange(desc(author$family))
+```
+
+## In Review Manuscripts
+
+## Conference Contributions
+
+## Organizational Tasks
+
+# Language & Methods
+
+```{r}
+tribble(
+  ~ Skill, ~ What,
+  "Languages", "Romanian, English, German",
+  "Methods", "Analysis of Variance, Regression, SEM, Data Reduction (EFA, CFA, MDS, Cluster Analysis), Multilevel Analysis, Simulations",
+  "Software", "SPSS, AMOS, Mplus, R, MsOffice"
+) %>% 
+  detailed_entries(What, Skill)
+```
+
+# Other Activities
+
+```{r}
+tribble(
+  ~ What, ~ List, ~ Period,
+  "Editorial", "Associate Editor at Online Readings in Psychology and Culture", "2020-"
+) %>% 
+  detailed_entries(What, List, Period)
+```
+
 
