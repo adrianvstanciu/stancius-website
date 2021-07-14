@@ -4,6 +4,22 @@ subtitle: "News. Accomplishments. Opinions."
 ---
 
 ___
+
+### **Full member of EASP**
+*As of 01.07.2021*
+
+[![](https://www.easp.eu/_images/easp-logo-default.svg){ width=30% align="left" title="EASP"}](https://www.easp.eu/)
+
+<br />
+<br />
+<br />
+
+The European Association of Social Psychology [EASP](https://www.easp.eu/) provides a platform for researchers in the discipline of Social Psychology to share knowledge and develop together new projects that are relevant for the European context. The association publishes several academic outlets, such as the [European Journal of Social Psychology](https://onlinelibrary.wiley.com/journal/10990992) and the [European Review of Social Psychology](https://www.easp.eu/publications/ersp/?).
+
+<a href="#top"> Go to top </a>
+
+___
+
 ### **Post-doctoral position at GESIS**
 *As of **01.02.21**, I am a post-doctoral researcher in Team Social Survey at GESIS-Mannehim.*
 
@@ -24,14 +40,8 @@ ___
 ### **Associate Editor at ORPC**
 *Starting on **01.21**, I am joining the editorial team at Online Readings in Psychology and Culture.*
 
-[![](https://www.iaccp.org/wp-content/uploads/2019/10/iaccp-logo.jpg){ width=20% align="left" title="ORPC"}](https://scholarworks.gvsu.edu/orpc/)
+[![](img/orpc_logo.png){ width=40% align="left" title="ORPC"}](https://scholarworks.gvsu.edu/orpc/)
 
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />

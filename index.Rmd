@@ -10,15 +10,32 @@ ___
 </center>
 
 ___
+
 <center>
 
-[![](img/gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829) &nbsp; &nbsp; &nbsp; &nbsp; [![](img/rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;  [![](img/twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
+<!---the dotts below are used for introducing separate columns--->
 
-<br/>
+:::: {style="display: grid; grid-template-columns: 1fr 1fr; grid-column-gap: 5px; "}
+
+::: {}
 
 [See my CV.](pdf/cv_stanciu.pdf)
 
+:::
+
+::: {}
+
+```stanciu.v.adrian[at]gmail.com```
+
+:::
+
+::::
+
+[![](img/gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829) &nbsp; &nbsp; &nbsp; &nbsp; [![](img/rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;  [![](img/twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
+
+
 </center>
+
 ___
 <center>
 ### **Interested in**
@@ -28,10 +45,6 @@ Ageing, assessment theory, cross-cultural research, individual and cultural chan
 ### **Check out my...**
 
 ...[guide](sitedummy.html) for complete beginners on how to build a personalized website using ```R```, ```RStudio```, and ```GitHub```. 
-
-### **Get in touch**
-
-You can write me an email at ```stanciu.v.adrian[at]gmail.com```.
 
 </center>
 
