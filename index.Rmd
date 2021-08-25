@@ -4,7 +4,7 @@ subtitle: Introductory workshop on *R* between 02.02.2022 - 04.02.2022
 ---
 ___
 
-[![](https://pbs.twimg.com/media/E9j2do_WUAI-wNZ?format=jpg&name=small){ width=70% align="" title="Intro to R"}](https://training.gesis.org/?site=pDetails&child=full&pID=0xAA72A87865CC455D928D910773D87AC5&lang=en_US)
+[![](img/intror.jpg){ width=70% align="" title="Intro to R"}](https://training.gesis.org/?site=pDetails&child=full&pID=0xAA72A87865CC455D928D910773D87AC5&lang=en_US)
 
 Dr. [Ranjit Singh](https://www.gesis.org/institut/mitarbeiterverzeichnis/person/Ranjit.Singh) of GESIS-Institute for Social Sciences and I are holding an online introductory workshop to R for social scientists as part of the GESIS training program. 
 
