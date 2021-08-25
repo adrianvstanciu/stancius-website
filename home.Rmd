@@ -1,80 +1,42 @@
 ---
 title: "Home"
-subtitle: "News. Accomplishments. Opinions."
+subtitle: "Research. Positions. Opinions."
+output: html_document
 ---
 
 ___
+### Publications {.tabset}
+#### **@ IJoP**
+*Stereotype accommodation concerning older people*
 
-### **Full member of EASP**
-*As of 01.07.2021*
-
-[![](https://www.easp.eu/_images/easp-logo-default.svg){ width=30% align="left" title="EASP"}](https://www.easp.eu/)
+[![](https://onlinelibrary.wiley.com/pb-assets/journal-banners/1464066x-1501384689843.jpg){ width=30% align="left" title="Paper"}](https://doi.org/10.1002/ijop.12800)
 
 <br />
 <br />
 <br />
 
-The European Association of Social Psychology [EASP](https://www.easp.eu/) provides a platform for researchers in the discipline of Social Psychology to share knowledge and develop together new projects that are relevant for the European context. The association publishes several academic outlets, such as the [European Journal of Social Psychology](https://onlinelibrary.wiley.com/journal/10990992) and the [European Review of Social Psychology](https://www.easp.eu/publications/ersp/?).
+This golden access publication (free for authors and free for readers) asks the question how do immigrants deal with exposure to cultural beliefs about older people that may be different than those in their cultures of origin. 
+
+> Do immigrants integrate the new beliefs into preexistent ones?
+
+In two cross-sectional and multi-national studies using European Social Survey ([ESS](https://www.europeansocialsurvey.org/)) and world Values Survey ([WVS](https://www.worldvaluessurvey.org/)) data, I examine the stereotype accommodation hypothesis (see [here](https://doi.org/10.1177%2F0022022118777300)) regarding stereotype of older people along dimensions of sociability and competence.
+
+I expect that as a result of cultural learning, immigrants who stay longer in their host socities, are exposed to greater cross-cultural difference in the stereotype of older people, and are open to experience their host culture are more likely to change their stereotype.
+
+I operationalize stereotype accommodation as the degree to which immigrant subjects reproduce the host culture's old-age stereotypes as opposed to those of the origin culture. That is: the absolute difference btwn meta-belief of individual and the averaged cultural belief.
+
+Findings show that immigrants can reproduce stereotypes about older people in host cultures when the host-country stereotypes are more positive than the stereotypes that prevail in their countries of origin. 
+
+> However, this is the case only regarding the sociability dimension.
+
+Knowing that immigrants can incorporate the old-age stereotypes that are dominant in their host cultures is a crucial step towards developing strategies for educating immigrants (and populations with a migration background) away from any negative beliefs about older people that had been internalised from their countries of origin and are in contrast with the more positive beliefs that exist in host countries.
+
+Why should this matter: we now become more aware that new avenues for research on ageing in immigrant populations are needed, particularly ones that consider the effects of both origin and host cultural stereotypes about older people.
 
 <a href="#top"> Go to top </a>
 
 ___
-
-### **Post-doctoral position at GESIS**
-*As of **01.02.21**, I am a post-doctoral researcher in Team Social Survey at GESIS-Mannehim.*
-
-[![](https://www.gesis.org/typo3conf/ext/gesis_web_ext/Resources/Public/Styles/Frontend/img/gs_home_logo_en.svg){ width=30% align="left" title="GESIS"}](https://www.gesis.org/en/home/)
-
-<br />
-<br />
-<br />
-
-
-[GESIS-Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home/) "is the largest German infrastructure institute for the social sciences. It is headquartered in Mannheim, with a location in Cologne. With basic research-based services and consulting covering all levels of the scientific process, GESIS supports researchers in the social sciences." (quote from the [Wikipedia](https://en.wikipedia.org/wiki/GESIS_%E2%80%93_Leibniz_Institute_for_the_Social_Sciences) page)
-
-I am joining the Team Social Surveys lead by [Dr. Oshrat Hochman](https://www.researchgate.net/profile/Oshrat_Hochman), and my main task is to contribute to the development and monitoring of the German General Social Survey (also known as [ALLBUS](https://www.gesis.org/en/allbus/allbus-home/)). In addition, I will continue all my ongoing projects. 
-
-<a href="#top"> Go to top </a>
-
-___
-### **Associate Editor at ORPC**
-*Starting on **01.21**, I am joining the editorial team at Online Readings in Psychology and Culture.*
-
-[![](img/orpc_logo.png){ width=40% align="left" title="ORPC"}](https://scholarworks.gvsu.edu/orpc/)
-
-<br />
-<br />
-<br />
-
-Online Readings in Psychology and Culture [ORPC](https://scholarworks.gvsu.edu/orpc/) is a golden access journal, meaning it does not charge authors nor readers for its contents. It is one of the journals of the International Association for Cross-Cultural Psychology [IACCP](https://www.iaccp.org/), the other journal being [JCCP](https://journals.sagepub.com/home/jcc). 
-
-The main goal of ORPC is to provide quality content (resources) for researchers, teachers and practitioners as well as the general public on a wide range of topics at the intersection of psychology and cross-cultural topics. What sets the journal apart from the JCCP or other established outlets is the philosophy behind it-that of focusing on providing overviews on specific topics, rather than "hard-core" empirically-driven articles. This way, the aim is to open scientific knowledge to new populations.
-
-This being said, please have a look at the ORPC [inspiring collection](https://scholarworks.gvsu.edu/orpc/contents.html) of publications.
-
-<a href="#top"> Go to top </a>
-
-___
-### **Visiting scholar at Jacobs University**
-*New status, next stage in research and teaching.*
-
-[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jacobs_University_Bremen_logo.svg/220px-Jacobs_University_Bremen_logo.svg.png){ width=25% align="left" title="Jacobs Uni"}](https://www.jacobs-university.de/)
-
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
-As of **1.12.2020** I continue my academic career as a visiting scholar to Prof. [Klaus Boehnke](https://www.jacobs-university.de/directory/kboehnke), at the department of Psychology and Methdos of Jacobs University Bremen.
-
-Prof. Boehnke is past president of the International Association of Cross-Cultural Psychology-[IACCP](https://www.iaccp.org/)-and generally researchers on social cohesion, values, and developmental topics, among others.
-
-<a href="#top"> Go to top </a>
-
-___
-### **Preprint at PsyArXiv**
+#### **@ PsyArXiv**
 *Index towards more accurate theoretical predictions in view of available data.*
 
 [![](https://upload.wikimedia.org/wikipedia/commons/9/9c/PsyArXiv_logo.png){ width=35% align="left" title="Similarity Index"}](https://psyarxiv.com/gdmvx/)
@@ -110,7 +72,7 @@ Several applications to existent findings in (Social) Psychology are provided. L
 <a href="#top"> Go to top </a>
 
 ___
-### **Publication at Ageing & Society**
+#### **@ Ageing & Society**
 *Values of self-transcendence provide motivational force toward the suppression of ageism in young adults.*
 
 [![](https://static.cambridge.org/covers/ASO_0_0_0/ageing_&%20society.jpg){ width=10% align="left" title="Ageism in young adults"}](https://doi.org/10.1017/S0144686X20001257)
@@ -144,24 +106,7 @@ The paper proposes a specific new way to combating ageism across cultures, one i
 <a href="#top"> Go to top </a>
 
 ___
-### **Editorial board at JSPP**
-*Fully open access journal. Publishes extensively from under-represented contexts.*
-
-[![](img/jspp.png){ width=50% align="left" title="Editorial board member JSPP"}](https://jspp.psychopen.eu/index.php/jspp/ed-board)
-
-<br />
-<br />
-<br />
-<br />
-
-Beginning with the **winter-term 2020**, I am joining for an initial term of three years the Editorial Board at the Journal of Social and Political Psychology (JSPP)! 
-
-JSPP is a fully open access journal that publishes at the intersection of social and political psychology, and it focuses on particularly encouraging an equitable representation of the varying research contexts and languages while offering a number of services, like the Buddy system which is meant to provide, among other, language assistance to non-native authors. JSPP accepts theoretical, review, and original articles as well as it publishes commentaries and action teaching reports.
-
-<a href="#top"> Go to top </a>
-
-___
-### **Publication at Frontiers in Psychology**
+#### **@ Frontiers**
 *The distribution approach to measuring culture-level values in Shalom Schwartz's theory.*
 
 [![](https://www.frontiersin.org/Areas/Home/Content/Images/logo-home.svg){ width=25% align="left" title="The distribution approach"}](https://doi.org/10.3389/fpsyg.2020.01723)
@@ -216,7 +161,7 @@ Finally, using these two newly found dimensions we can predict each country’s 
 <a href="#top"> Go to top </a>
 
 ___
-### **Publication at Perspectives in Psychological Science**
+#### **@ Perspectives**
 *What motives do people prioritize in their social life?*
 
 [![](https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/ppsa/2020/ppsa_15_6/ppsa_15_6/20201102/ppsa_15_6.cover.png){ width=10% align="left" title="Family matters"}](https://doi.org/10.1177%2F1745691619872986)
@@ -238,7 +183,7 @@ Article is open access available [here](https://journals.sagepub.com/doi/10.1177
 <a href="#top"> Go to top </a>
 
 ___
-### **Publication at International Journal of Intercultural Relations**
+#### **@ IJIR**
 *During processes of acculturating to their host countries Romanian immigrants modify their stereotypical beliefs regarding politicians.*
 
 [![](https://ars.els-cdn.com/content/image/X01471767.jpg){ width=10% align="left" title="Evidence for stereotype accommodation"}](https://www.sciencedirect.com/science/article/abs/pii/S0147176718304139)
@@ -260,7 +205,7 @@ Through intercultural contact, immigrants can change the stereotypes they had pr
 <a href="#top"> Go to top </a>
 
 ___
-### **Publication at Journal of Cross-Cultural Psychology**
+#### **@ JCCP**
 *Introduces the stereotype accommodation concept.*
 
 [![](https://journals.sagepub.com/na101/home/literatum/publisher/sage/journals/content/jcca/2020/jcca_51_10/jcca_51_10/20201118-01/jcca_51_10.cover.png){ width=10% align="left" title="Concept of stereotype accommodation"}](https://doi.org/10.1177%2F0022022118777300)
@@ -293,7 +238,93 @@ Our main argument is that the existing work has only considered ways in which mi
 <a href="#top"> Go to top </a>
 
 ___
-### **Postdoc at University of Vechta**
+### Positions {.tabset}
+#### **EASP Membership**
+*As of 01.07.2021*
+
+[![](https://www.easp.eu/_images/easp-logo-default.svg){ width=30% align="left" title="EASP"}](https://www.easp.eu/)
+
+<br />
+<br />
+<br />
+
+The European Association of Social Psychology [EASP](https://www.easp.eu/) provides a platform for researchers in the discipline of Social Psychology to share knowledge and develop together new projects that are relevant for the European context. The association publishes several academic outlets, such as the [European Journal of Social Psychology](https://onlinelibrary.wiley.com/journal/10990992) and the [European Review of Social Psychology](https://www.easp.eu/publications/ersp/?).
+
+<a href="#top"> Go to top </a>
+
+___
+#### **GESIS PostDoc**
+*As of **01.02.21**, I am a post-doctoral researcher in Team Social Survey at GESIS-Mannehim.*
+
+[![](https://www.gesis.org/typo3conf/ext/gesis_web_ext/Resources/Public/Styles/Frontend/img/gs_home_logo_en.svg){ width=30% align="left" title="GESIS"}](https://www.gesis.org/en/home/)
+
+<br />
+<br />
+<br />
+
+
+[GESIS-Leibniz Institute for the Social Sciences](https://www.gesis.org/en/home/) "is the largest German infrastructure institute for the social sciences. It is headquartered in Mannheim, with a location in Cologne. With basic research-based services and consulting covering all levels of the scientific process, GESIS supports researchers in the social sciences." (quote from the [Wikipedia](https://en.wikipedia.org/wiki/GESIS_%E2%80%93_Leibniz_Institute_for_the_Social_Sciences) page)
+
+I am joining the Team Social Surveys lead by [Dr. Oshrat Hochman](https://www.researchgate.net/profile/Oshrat_Hochman), and my main task is to contribute to the development and monitoring of the German General Social Survey (also known as [ALLBUS](https://www.gesis.org/en/allbus/allbus-home/)). In addition, I will continue all my ongoing projects. 
+
+<a href="#top"> Go to top </a>
+
+___
+#### **Associate Editor ORPC**
+*Starting on **01.21**, I am joining the editorial team at Online Readings in Psychology and Culture.*
+
+[![](img/orpc_logo.png){ width=40% align="left" title="ORPC"}](https://scholarworks.gvsu.edu/orpc/)
+
+<br />
+<br />
+<br />
+
+Online Readings in Psychology and Culture [ORPC](https://scholarworks.gvsu.edu/orpc/) is a golden access journal, meaning it does not charge authors nor readers for its contents. It is one of the journals of the International Association for Cross-Cultural Psychology [IACCP](https://www.iaccp.org/), the other journal being [JCCP](https://journals.sagepub.com/home/jcc). 
+
+The main goal of ORPC is to provide quality content (resources) for researchers, teachers and practitioners as well as the general public on a wide range of topics at the intersection of psychology and cross-cultural topics. What sets the journal apart from the JCCP or other established outlets is the philosophy behind it-that of focusing on providing overviews on specific topics, rather than "hard-core" empirically-driven articles. This way, the aim is to open scientific knowledge to new populations.
+
+This being said, please have a look at the ORPC [inspiring collection](https://scholarworks.gvsu.edu/orpc/contents.html) of publications.
+
+<a href="#top"> Go to top </a>
+
+___
+#### **Visiting scholar Jacobs Uni**
+*New status, next stage in research and teaching.*
+
+[![](https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jacobs_University_Bremen_logo.svg/220px-Jacobs_University_Bremen_logo.svg.png){ width=25% align="left" title="Jacobs Uni"}](https://www.jacobs-university.de/)
+
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+As of **1.12.2020** I continue my academic career as a visiting scholar to Prof. [Klaus Boehnke](https://www.jacobs-university.de/directory/kboehnke), at the department of Psychology and Methdos of Jacobs University Bremen.
+
+Prof. Boehnke is past president of the International Association of Cross-Cultural Psychology-[IACCP](https://www.iaccp.org/)-and generally researchers on social cohesion, values, and developmental topics, among others.
+
+<a href="#top"> Go to top </a>
+
+___
+#### **JSPP Editorial board**
+*Fully open access journal. Publishes extensively from under-represented contexts.*
+
+[![](img/jspp.png){ width=50% align="left" title="Editorial board member JSPP"}](https://jspp.psychopen.eu/index.php/jspp/ed-board)
+
+<br />
+<br />
+<br />
+<br />
+
+Beginning with the **winter-term 2020**, I am joining for an initial term of three years the Editorial Board at the Journal of Social and Political Psychology (JSPP)! 
+
+JSPP is a fully open access journal that publishes at the intersection of social and political psychology, and it focuses on particularly encouraging an equitable representation of the varying research contexts and languages while offering a number of services, like the Buddy system which is meant to provide, among other, language assistance to non-native authors. JSPP accepts theoretical, review, and original articles as well as it publishes commentaries and action teaching reports.
+
+<a href="#top"> Go to top </a>
+
+___
+#### **PostDoc Uni Vechta**
 *As of 01.12.2017 I am joining the Gerontology deaprtment.*
 
 [![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fupload.wikimedia.org%2Fwikipedia%2Fcommons%2F0%2F08%2FLogo_Uni_Vechta-neu.png&f=1&nofb=1){ width=20% align="left" title="Uni Vechta"}](https://www.uni-vechta.de/home/)
