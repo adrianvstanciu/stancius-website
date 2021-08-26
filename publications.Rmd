@@ -1,59 +1,80 @@
 ---
 title: "Publications"
 subtitle: "My publications. Open access."
+output: html_document
 ---
 
 ___
-### **Peer-reviewed articles**
-
+### Peer-reviewed {.tabset}
+#### **2021**
 1. Stanciu, A. (2021). Stereotype accommodation concerning older people. International Journal of Psychology. (online first). [open access](https://t.co/YVNfcrtLc4?amp=1)
 
-2. Stanciu, A. (2020). Value systems as motivational forces for the suppression of ageism towards older people amongst young adults: an analysis across countries. Ageing & Society. (online first). [open access](https://doi.org/10.1017/S0144686X20001257)
+#### **2020**
+1. Stanciu, A. (2020). Value systems as motivational forces for the suppression of ageism towards older people amongst young adults: an analysis across countries. Ageing & Society. (online first). [open access](https://doi.org/10.1017/S0144686X20001257)
 
-3. Witte, E.H., Stanciu, A.* & Boehnke K. (2020). A new empirical approach to inter-cultural comparisons of value preferences based on Schwartz’s theory. Frontiers in Psychology, Cultural Psychology, 11, 1723. [open access](https://doi.org/10.3389/fpsyg.2020.01723) (*corresponding author)
+2. Witte, E.H., Stanciu, A.* & Boehnke K. (2020). A new empirical approach to inter-cultural comparisons of value preferences based on Schwartz’s theory. Frontiers in Psychology, Cultural Psychology, 11, 1723. [open access](https://doi.org/10.3389/fpsyg.2020.01723) (*corresponding author)
 
-4. Ko, A., Pick, C.M., Kwon, J.Y., Barlev, M., Krems, J.A., Varnum, M.E.W…**Stanciu, A**…Kenrick, D.T. (2020). Family matters: Rethinking the Psychology of human social motivation. Perspectives on Psychological Science, 15, 173-201. [open access](https://doi.org/10.1177/1745691619872986)
+3. Ko, A., Pick, C.M., Kwon, J.Y., Barlev, M., Krems, J.A., Varnum, M.E.W…**Stanciu, A**…Kenrick, D.T. (2020). Family matters: Rethinking the Psychology of human social motivation. Perspectives on Psychological Science, 15, 173-201. [open access](https://doi.org/10.1177/1745691619872986)
 
-5. Stanciu, A., Vauclair, C.-M. & Rodda, N. (2019). Evidence for stereotype accommodation as an expression of immigrants socio-cognitive adaptation. International Journal of Intercultural Relations, 72, 76-86. [open access](pdf/stanciuetal2019.pdf)
+#### **2019**
+4. Stanciu, A., Vauclair, C.-M. & Rodda, N. (2019). Evidence for stereotype accommodation as an expression of immigrants socio-cognitive adaptation. International Journal of Intercultural Relations, 72, 76-86. [open access](pdf/stanciuetal2019.pdf)
 
-6. Stanciu, A. & Vauclair, C.-M. (2018). Stereotype accommodation: A socio-cognitive perspective on migrants’ cultural adaptation. Journal of Cross-Cultural Psychology, 49, 1027-1047. [open access](https://doi.org/10.1177%2F0022022118777300)
+#### **2018**
+1. Stanciu, A. & Vauclair, C.-M. (2018). Stereotype accommodation: A socio-cognitive perspective on migrants’ cultural adaptation. Journal of Cross-Cultural Psychology, 49, 1027-1047. [open access](https://doi.org/10.1177%2F0022022118777300)
 
-7. Stanciu, A. & Vos, M.W. (2017). Stereotype-based faultlines and out-group derogation in diverse teams: The moderating roles of task stereotypicality and need for cognition. The Journal of Social Psychology, 157, 352-365. [open access](https://doi.org/10.1080/00224545.2017.1371442) *Note* This is the corrected citation to [this older verion](pdf/StanciuVos2017.pdf).
+#### **2017**
+1. Stanciu, A. & Vos, M.W. (2017). Stereotype-based faultlines and out-group derogation in diverse teams: The moderating roles of task stereotypicality and need for cognition. The Journal of Social Psychology, 157, 352-365. [open access](https://doi.org/10.1080/00224545.2017.1371442) *Note* This is the corrected citation to [this older verion](pdf/StanciuVos2017.pdf).
 
-8. Stanciu, A., Cohrs, C.J., Hanke, K. & Gavreliuc, A. (2017). Within-culture variation in the content of stereotypes: Application and development of the stereotype content model in an Eastern European culture. The Journal of Social Psychology, 157, 611-628. [open access](pdf/Stanciuetal2017.pdf)
+2. Stanciu, A., Cohrs, C.J., Hanke, K. & Gavreliuc, A. (2017). Within-culture variation in the content of stereotypes: Application and development of the stereotype content model in an Eastern European culture. The Journal of Social Psychology, 157, 611-628. [open access](pdf/Stanciuetal2017.pdf)
 
-9. Stanciu, A. (2015a). The underlying structure of diverse work groups: A literature review on faultlines and diversity outcomes. Romanian Journal of Applied Psychology, 17, 63-71. [open access](http://www.rjap.psihologietm.ro/Download/rjap172_4.pdf)
+#### **2016**
+1. Stanciu, A. (2015a). The underlying structure of diverse work groups: A literature review on faultlines and diversity outcomes. Romanian Journal of Applied Psychology, 17, 63-71. [open access](http://www.rjap.psihologietm.ro/Download/rjap172_4.pdf)
 
-10. Stanciu, A. (2015b). Four sub-dimensions of stereotype content: Explanatory evidence from Romania. International Psychology Bulletin, 19, 14-20. [open access](pdf/stanciu2015b.pdf)
+2. Stanciu, A. (2015b). Four sub-dimensions of stereotype content: Explanatory evidence from Romania. International Psychology Bulletin, 19, 14-20. [open access](pdf/stanciu2015b.pdf)
 
 ___
-### **Pre-prints**
+### Pre-prints {.tabset}
+#### **2020**
 
 1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2020). A simple measure for the predictive accuracy of an empirical construct. PsyArXiv. [open access](https://doi.org/10.31234/osf.io/gdmvx)
 
-___
-### **Books & book chapters**
+2. Stanciu, A. (2020). Stereotype accommodation concerning older people. PsyArXiv. [open access](https://doi.org/10.31234/osf.io/635qn). <*Now published as [Stanciu (2021)](https://t.co/YVNfcrtLc4?amp=1) @ IJoP.*>
 
+___
+### Books & Chapters {.tabset}
+#### **2017** 
 1. Stanciu, A. (2017). Overall and contextually-bound well-being. Life satisfaction of Romanian migrant-emerging-adults as the outcome of a mediated association acculturation-adaptation. In R. Dimitrova (Ed.), Well-being of Youth and Emerging Adults across Cultures. Springer Series on Cross-Cultural Advancements in Positive Psychology. [open access](pdf/Stanciu_Chapter2017.pdf)
 
-2. Stanciu, A. (2010). Uniforma vestimentară. Ipostază a conformării astăzi. [Dressing uniform. A modern instance of conformity]. Iași, Romania: Lumen. (in Romanian). [behind paywall](https://www.amazon.co.uk/d/cka/Uniforma-vestimentara-Ipostaza-conformarii-astazi-Adrian-Stanciu/9731661999)
+#### **2010** 
+1. Stanciu, A. (2010). Uniforma vestimentară. Ipostază a conformării astăzi. [Dressing uniform. A modern instance of conformity]. Iași, Romania: Lumen. (in Romanian). [behind paywall](https://www.amazon.co.uk/d/cka/Uniforma-vestimentara-Ipostaza-conformarii-astazi-Adrian-Stanciu/9731661999)
 
 ___
-### **Other**
+### Other {.tabset}
+#### **2020**
+1. Stanciu, Adrian. (2020). Website for complete beginners: All the steps to create your website, for dummies. [Online guide]. https://adrianstanciu.eu/sitedummy.html
 
+#### **2017**
 1. Stanciu, A. (2017). On the cognitive adaptation of migrants: Changes in migrants’ personal stereotypes while acculturating to their host countries. Doctoral dissertation at the Bremen International Graduate School of Social Sciences. [*email me and I will provide you with a copy*].
 
 ___
-### **In preparation**
-
+### In preparation {.tabset}
+#### **Stereotypes**
 1. English, A.S., Xinyi, C.Z., **Stanciu, A.**, & Kulich, S.J. (2020). Ethnic stereotype formation and its impact on sojourner adaptation: A case of Chinese migrant workers in Montenegro. (revisions)
 
 2. Kotzur, P.F.^1^, **Stanciu, A.^1^**, Friehs, M-T., Farcas, D., Kislioglu, R., Koc, Y….Van Zalk, M. (2020). Back to basics: The measurement structure and comparability of stereotype dimensions across social groups, cultural contexts, and time. (^1^shared authorship; preregistred; partially written)
 
-3. Smallenbroek, O.^1^, **Stanciu, A.^1^**, Arant, R. & Boehnke, K. (2020). Are values really stable throughout adulthood? Evidence from two German panel studies. (^1^shared authorship; analysis stage; partially written)
+#### **Values**
+1. Stanciu, A. & Smallenbroek, O. (2021). Value development studied in a longitudinal representative sample from the Netherlands. [*working title*]  
 
-4. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2020b). What is a good empirical theory in Psychology and how to measure it? (partially written)
+2. Smallenbroek, O.^1^, **Stanciu, A.^1^**, Arant, R. & Boehnke, K. (2020). Are values really stable throughout adulthood? Evidence from two German panel studies. (^1^shared authorship; partially written)
 
-5. Pick, M.C., Ko, A., Kenrick, D.T., Awad, E., Barry, O., Boonyasiriwat, W…, **Stanciu, A**…Varnum, M.E.W. (2021). Fundamental social motives: A new way to think about culture. (revisions)
+3. Pick, M.C., Ko, A., Kenrick, D.T., Awad, E., Barry, O., Boonyasiriwat, W…, **Stanciu, A**…Varnum, M.E.W. (2021). Fundamental social motives: A new way to think about culture. (revisions)
+
+#### **Methodological**
+1. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2020b). What is a good empirical theory in Psychology and how to measure it? (partially written)
+
+2. Witte, E.H., **Stanciu, A.**, & Zenker, F. (2021). Quantum social sciences: Dealing with instrument biases, measurement erros, and cognitive limitations when working with quantitative data. (Simulations ready) 
+
+3. Witte, E.H., **Stanciu, A.**, Zenker, F., & Lakens, D. (2021). Meta-analysis 2.0: Standard deviations are more informative of the state of a research field than previously thought. [*working title*]
 
 ____
