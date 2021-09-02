@@ -18,6 +18,9 @@ navbar:
     - text: "Teaching"
       icon: fa-chalkboard-teacher
       href: teaching.html
+    - text: "Do-it-yourself"
+      icon: fa-magic
+      href: sitedummy.html
     - text: "About"
       icon: fa-info
       href: about.html

@@ -1,6 +1,6 @@
 ---
 title: "News"
-subtitle: Introductory workshop on *R* between 02.02.2022 - 04.02.2022
+subtitle: Introductory workshop to *R* between 02.02.2022 - 04.02.2022
 ---
 ___
 
