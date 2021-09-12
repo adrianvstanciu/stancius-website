@@ -6,6 +6,50 @@ output: html_document
 
 ___
 ### Publications {.tabset}
+#### **@ IJREPH**
+*Ethnic Stereotype Formation and Its Impact on Sojourner Adaptation*
+
+[![](https://www.mdpi.com/img/design/mdpi-pub-logo-blue-small4.png?fff78193ca41c286){ width=10% align="left" title="Paper"}](https://doi.org/10.3390/ijerph18189540)
+
+<br />
+<br />
+<br />
+
+
+This golden access paper (free for authors and free for readers) asks how do sojourn immigrants having little to no opportunities of contact with local culture experience adaptation processes. We looked at stereotype formation in a sample of Chinese Belt & Road workers in Montenegro.
+
+Adaptation research departs from the assumption that immigrants live in the local host culture and consequently have opportunities to interact with local population. 
+
+> But, what happens if that is not possible? 
+
+[Chinese Belt & Road](https://en.wikipedia.org/wiki/Belt_and_Road_Initiative) workers are living in own camps and move along the designed path of the to-be-built road. As project progresses, so do sojourners move further away from cities and villages and so they have lesser chances of contact. 
+
+We studied what stereotypes did sojourners have about the local population. 
+
+Using the [stereotype accommodation hypothesis](https://t.co/FYkspOf5KR?amp=1), we expected that there is stereotype formation as a result of information sharing _within_ the sojourner group. 
+
+We tested effects due to cultural distance, knowledge of the local culture, and duration of stay in the culture on richness of stereotypical describtions which in turn expected to explain feelings of social exclusion as well as sociocultural adaptation. 
+
+
+<br />
+
+<center>
+
+![Figure 1. Mediation model depicting the relation between studied variables.](img/fig1_stformation.png){title="Mediation model"}
+
+</center>
+
+<br />
+
+
+We find that a greater amount of stereotypical descriptions (richness of adjectives provided) was negatively associated with social exclusion and positively with sociocultural adaptation. Findings also show that the ability to describe the local people in own's host culture makes one adapt. And this is seemingly irrelevant whether the description is positive or negative, which is contractictory with the contact hypothesis.  
+
+> "In conclusion, this study should be seen as a building block in stereotype formation literature that complements the growing number of studies in non-western cultural settings."
+
+
+<a href="#top"> Go to top </a>
+
+___
 #### **@ IJoP**
 *Stereotype accommodation concerning older people*
 

@@ -25,20 +25,22 @@ Thank you for your active interest in my current and past projects. Get in touch
 
 Dr. Adrian Stanciu
 
+___
 #### CV
 
 Download a pdf copy of my vitae [here](pdf/cv_stanciu.pdf).
 
+___
 #### Social media
 
 [![](img/gschol.png){ width=5% title="Google Scholar"}](https://scholar.google.de/citations?user=vy80cu8AAAAJ&hl=en)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/orcid.png){ width=5% title="OrcId"}](https://orcid.org/0000-0001-8149-7829) &nbsp; &nbsp; &nbsp; &nbsp; [![](img/rgate.png){ width=5% title="Research Gate"}](https://www.researchgate.net/profile/Adrian-Stanciu)&nbsp; &nbsp; &nbsp; &nbsp;  [![](img/twitter.png){ width=5% title="Twitter"}](https://twitter.com/adrianvstanciu)&nbsp; &nbsp; &nbsp; &nbsp; [![](img/blogspt.png){ width=5% title="My photo website"}](http://adrianstanciuphoto.blogspot.com/)
 
+___
 #### Research interests
 
 Ageing, assessment theory, cross-cultural research, individual and cultural change, inter-individual and inter-group relations, open science, stereotypes, values.
 
 ___
-
 ## <!---this allows for the tabset above to end and have the PS outside it--->
 *PS: My website does not use cookies technology. Check yourself by following this set of [instructions](https://www.cookielawinfo.com/does-my-website-use-cookies/).*
 
