@@ -8,7 +8,7 @@ ___
 ### {.tabset}
 #### **2021**
 
-1. Stanciu, A., Witte, EH., & Zenker, F. (2021). Meta-analysis 2.0: Parameter estimation by means of selective aggregation. *Planned* poster presentation at the 15th Conference of the Section "Methods and Evaluation" in the German Psychological Society (DGPs). [poster available after conference]
+1. Stanciu, A., Witte, EH., & Zenker, F. (2021). Meta-analysis 2.0: Parameter estimation by means of selective aggregation. Poster presentation at the 15th Conference of the Section "Methods and Evaluation" in the German Psychological Society (DGPs). [poster](https://osf.io/jgu67/)
 
 2. Stanciu, A. (2021). Can we and should we study value development in adulthood in the right theory but with the _wrong_ instruments? Presentation as part of the invited symposium _Value preferences and their development across the lifespan_ (Organizer: Klaus Boehnke) at the International Congress of Psychology 2020+ (online), Prague, Czech Republic. [slides](https://osf.io/cknxs/)
 
